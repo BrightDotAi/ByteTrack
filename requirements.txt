@@ -1,4 +1,9 @@
 # TODO: Update with exact module version
+cython
+cython_bbox
+opencv-python
+opencv-contrib-python
+lap
 scipy
 scikit-build
 loguru
