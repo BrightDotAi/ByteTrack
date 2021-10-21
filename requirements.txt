@@ -1,11 +1,16 @@
 # TODO: Update with exact module version
+scipy
+scikit-build
+loguru
+pycocotools
+thop
 numpy
 torch>=1.7
 opencv_python
 loguru
 scikit-image
 tqdm
-torchvision==0.10.0
+torchvision
 Pillow
 thop
 ninja
